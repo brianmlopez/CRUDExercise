@@ -8,11 +8,11 @@ This project was developed using HTML, CSS, PHP (Laravel) and Bootstrap.
 
 ## FEATURES
 
-* -ADD BOOKS
-* -BROWSE BOOKS
-* -BROWSE BORROWED BOOKS
-* -DELETE BOOKS
-* -EDIT BOOK DETAILS
+* ADD BOOKS
+* BROWSE BOOKS
+* BROWSE BORROWED BOOKS
+* DELETE BOOKS
+* EDIT BOOK DETAILS
 
 Follow the following to locally setup the project.
 
@@ -21,14 +21,14 @@ Follow the following to locally setup the project.
 3. You have to turn off your anti-virus or make an exception for the project.
 4. Rename the file env.example to env (Other way to do this is to open the project in IDE then change the file name from there.)
 5. Open the env file and change the following:
-    DB_DATABASE=homestead to DB_DATABASE=rlms
-    DB_USERNAME=homestead to DB_USERNAME=root
-    DB_PASSWORD=secret to DB_PASSWORD=
+*    DB_DATABASE=homestead to DB_DATABASE=rlms
+*    DB_USERNAME=homestead to DB_USERNAME=root
+*    DB_PASSWORD=secret to DB_PASSWORD=
 6. Open XAMPP then start both Apache and MySQL.
 7. Open Git Bash then change directory to the project.
-8. Type _composer install_ then wait for it to finish.
-9. After that, type _php artisan key:generate_.
-10. Then type _php artisan serve_.
+8. Type ```composer install``` then wait for it to finish.
+9. After that, type ```php artisan key:generate```.
+10. Then type ```php artisan serve```.
 11. Open phpmyadmin in your browser then create a new database named **rlms**.
 12. Import the sql file in the project folder named **rlms.sql** to the database.
 13. Open 127.0.0.1:8000
