@@ -2,17 +2,17 @@
 
 This is a simple library system which you can **browse**, **edit**, **add** and **delete**. 
 
-##DEVELOPMENT
+## DEVELOPMENT
 This project was developed using HTML, CSS, PHP (Laravel) and Bootstrap.
 
 
-##FEATURES
+## FEATURES
 
-*-ADD BOOKS
-*-BROWSE BOOKS
-*-BROWSE BORROWED BOOKS
-*-DELETE BOOKS
-*-EDIT BOOK DETAILS
+* -ADD BOOKS
+* -BROWSE BOOKS
+* -BROWSE BORROWED BOOKS
+* -DELETE BOOKS
+* -EDIT BOOK DETAILS
 
 Follow the following to locally setup the project.
 
